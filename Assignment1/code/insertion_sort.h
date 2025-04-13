@@ -1,4 +1,6 @@
 #pragma once
 #include <vector>
 
-void insertion_sort(std::vector<int>& arr, int left, int right);
+using namespace std;
+
+void insertion_sort(vector<int>& arr, int left, int right);
