@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+
+    "C_Cpp.default.compilerPath": "C:/Program Files/CodeBlocks/MinGW/bin/g++.exe",
+  
+    "cmake.generator": "MinGW Makefiles",
+  
+    "cmake.preferredGenerators": ["MinGW Makefiles"]
+  }
+  

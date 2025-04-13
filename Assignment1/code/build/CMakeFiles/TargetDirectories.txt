@@ -1,0 +1,3 @@
+C:/Users/user/Algorithm Assignment/Assignment1/code/build/CMakeFiles/sorter.dir
+C:/Users/user/Algorithm Assignment/Assignment1/code/build/CMakeFiles/edit_cache.dir
+C:/Users/user/Algorithm Assignment/Assignment1/code/build/CMakeFiles/rebuild_cache.dir
