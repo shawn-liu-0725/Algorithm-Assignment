@@ -1,4 +1,0 @@
-測資,TopDown,BottomUp,Greedy,執行時間(秒)
-test_large.txt,1430,1430,1410,0.091217
-test_medium.txt,125,125,125,0.016417
-test_small.txt,19,19,17,0.018815
