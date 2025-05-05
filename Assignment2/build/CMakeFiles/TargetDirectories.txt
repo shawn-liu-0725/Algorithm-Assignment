@@ -1,0 +1,3 @@
+C:/Users/user/Assignment2/build/CMakeFiles/knapsack_solver.dir
+C:/Users/user/Assignment2/build/CMakeFiles/edit_cache.dir
+C:/Users/user/Assignment2/build/CMakeFiles/rebuild_cache.dir

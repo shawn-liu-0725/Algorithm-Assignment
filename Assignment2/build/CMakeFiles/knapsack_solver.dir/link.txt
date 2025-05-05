@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\knapsack_solver.dir/objects.a
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe cr CMakeFiles\knapsack_solver.dir/objects.a @CMakeFiles\knapsack_solver.dir\objects1.rsp
+C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE -Wl,--whole-archive CMakeFiles\knapsack_solver.dir/objects.a -Wl,--no-whole-archive -o knapsack_solver.exe -Wl,--out-implib,libknapsack_solver.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\knapsack_solver.dir\linklibs.rsp
